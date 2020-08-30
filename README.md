@@ -6,7 +6,7 @@ Need to know what the weather is like on your next vaction and the upcoming 5 da
 
 API are realy cool but a little confusing. JavaScript is a little better this time around. Local storage is still mmy favorite thing so far in js.
 
-![Application landing page](https://feizhi255.github.io/weather-dashboard/image/weatherpage.png.png)
+![Application landing page](https://feizhi255.github.io/weather-dashboard/assest/image/weatherpage.png.png)
 
 Link to the live site: [weather dashboard](https://feizhi255.github.io/weather-dashboard/)
 
