@@ -42,7 +42,7 @@ function success(position) {
 
 function error(){
     //can't geolocate and no previous searches, so just give them one
-    currentLoc = "Raleigh"
+    currentLoc = "Utah"
     getCurrent(currentLoc);
 }
 
